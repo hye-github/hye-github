@@ -46,12 +46,6 @@
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hye_iio/)
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
-  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyein12)](https://solved.ac/hyein12/)<br><br>
