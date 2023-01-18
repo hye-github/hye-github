@@ -46,8 +46,8 @@
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hye_iio/)
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyein12)](https://solved.ac/hyein12/)<br><br>
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhye-github%2Fhit-counter&count_bg=%238435B6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
