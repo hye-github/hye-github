@@ -11,8 +11,7 @@
 <br>
 <br>
 
-## 💻 Back-end Stack 💻<br><br>
-  
+## 💻 Back-end Stack 💻
 ![java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)<br>
 ![apachetomcat](https://img.shields.io/badge/apachetomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white) ![gradle](https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white) ![amazonaws](https://img.shields.io/badge/amazonaws-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
@@ -47,8 +46,11 @@
 [![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hye_iio/)
 
 <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github)](https://github.com/anuraghazra/github-readme-stats)<br>
-[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
+[![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&layout=compact&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)<br>
