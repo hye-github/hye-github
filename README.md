@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=hyein's%20github&fontColor=ffffff&fontSize=30&fontAlignY=37)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=hyein's%20github&fontColor=ffffff&fontSize=30&fontAlignY=39)
 # _Hello! This is Hyein.👋_<br>_I’m looking for a job._ 😊<br>
 <br>
   
