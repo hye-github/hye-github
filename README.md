@@ -44,9 +44,9 @@
 <br>
 <br>
   
-## 📌 Get in touch 📌
-[![instagram](https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/hye_iio/)
-
+## 📌 Blog 📌
+[![velog](https://img.shields.io/badge/Velog-16C898?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hye-velog)
+  
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
