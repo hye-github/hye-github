@@ -48,6 +48,9 @@
 [![💻velog](https://img.shields.io/badge/Velog-16C898?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@hye-velog)
   
 <br><br>
+  
+<a href="https://opgc.me/#/users/hye-github" target="_blank"><img src="https://api.opgc.me/githubs/users/hye-github/tag/?theme=basic" /></a>
+  
 [![📌Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hye-github&theme=buefy&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Hyein's GitHub stats](https://github-readme-stats.vercel.app/api?username=hye-github&theme=buefy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyein12)](https://solved.ac/hyein12/)<br><br>
