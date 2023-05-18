@@ -1,16 +1,19 @@
 <div align="center">
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:12c2e9,50:c471ed,100:f64f59&height=200&section=header&text=hyein's%20github&fontColor=ffffff&fontSize=30&fontAlignY=39)
+
+<details>
+<summary></summary>
 # _Hello! This is Hyein.👋_<br>_I’m Junior Backend Developer._ 😊<br>
 <br>
-  
+
 학원 수료를 마치고 두 번의 프로젝트 끝마친 코린이입니다.<br>제 프로젝트에 관심이 있으시다면 아래의 링크를 확인해주세요.<br>
 [🔗semi-project](https://github.com/hye-github/KH-semi-project)<br>
 [🔗final-project](https://github.com/hye-github/Project-deli "ver1.0.0 develop 중")<br>
-
 <br>
+</details>
 <br>
-
+  
 ## 💻 Back-end Stack 💻
 ![java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white) ![spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white) ![oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![mybatis](https://img.shields.io/badge/mybatis-D0312D?style=for-the-badge&logo=mybatis&logoColor=white)<br>
